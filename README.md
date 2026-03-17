@@ -47,6 +47,64 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 2.	The Final Generated Image: The image created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
+## Prompt:
+A serene mountain landscape with lush green hills, a wide valley covered in grass fields, scattered trees, and a small village nestled among the mountains. The scene is illuminated by soft daylight under a clear blue sky with light clouds, creating a peaceful and natural atmosphere.
+<img width="217" height="148" alt="image" src="https://github.com/user-attachments/assets/4ad7c290-7cc4-4c68-a62d-004eb36a5e38" />
+## Improved Prompt
+"A serene landscape during sunset with majestic purple mountains in the distance, a calm river reflecting the warm colors of the sunset sky, and a few tall trees gently lining the riverbank. The sky is filled with soft orange, pink, and purple hues, creating a peaceful and dreamy atmosphere."
+<img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/e2e6ec90-682a-4a65-addc-fb3596903e33" />
+## Comparison Report
+## 1. Original Prompt
+
+"A serene landscape during sunset with purple mountains, a calm river reflecting the colors of the sky, and a few trees along the shore."
+
+## 2. Generated Image Analysis
+
+Key Elements Observed:
+
+Purple mountains ✔️ — Clearly visible in the background with a soft purple hue.
+
+Sunset sky ✔️ — Rich blend of orange, pink, and purple tones.
+
+Calm river ✔️ — Smooth water surface reflecting the sky beautifully.
+
+Reflection effect ✔️ — Strong and visually accurate reflection of mountains and sky.
+
+Trees along the shore ✔️ — Present on both sides, framing the scene naturally.
+
+Serene atmosphere ✔️ — Very well achieved with soft lighting and still water.
+
+## 3. Similarities
+Aspect	Observation
+Color Theme	Matches sunset tones (orange, pink, purple)
+Landscape Elements	Mountains, river, and trees are all present
+Mood	Calm, peaceful, and serene as intended
+Reflection	Accurate and visually appealing
+## 4. Differences
+Aspect	Difference
+Tree Placement	More trees than “a few” — acts as a frame rather than minimal elements
+Composition	Trees in foreground create depth (not explicitly mentioned in prompt)
+Lighting Detail	More dramatic and cinematic than basic description
+Mountain Detail	More textured and realistic than implied
+## 5. Prompt Adjustments Made by AI (Implicit)
+
+The AI likely enhanced your prompt by:
+
+Adding foreground framing (trees) for depth
+
+Increasing lighting realism and contrast
+
+Enhancing reflection clarity
+
+Adding cinematic composition techniques
+
+
+## 7. Conclusion
+
+✅ The generated image is highly accurate to the prompt
+✅ It enhances realism and visual appeal beyond the basic description
+⚠️ Minor deviations are due to artistic interpretation, not errors
+
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
